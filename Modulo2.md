@@ -18,7 +18,7 @@
      env\Scripts\activate 
   ```
 
-![image](Imagenes/ActivarEntorno.png)
+![image](Imagenes/ActivarEntorno.PNG)
 
 ## Desactivar entorno
 
