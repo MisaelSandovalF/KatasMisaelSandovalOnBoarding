@@ -8,7 +8,7 @@
      python3 -m venv env 
   ```
 
-![image](imagenes/CreacionDeCarpeta.PNG)
+![image](Imagenes/CreacionDeCarpeta.PNG)
 
 ## Activar entorno
 
