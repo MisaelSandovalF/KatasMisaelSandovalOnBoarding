@@ -18,7 +18,7 @@
      env\Scripts\activate 
   ```
 
-![image](imagenes/ActivarEntorno.png)
+![image](Imagenes/ActivarEntorno.png)
 
 ## Desactivar entorno
 
@@ -28,7 +28,7 @@
      deactivate 
   ```
 
-![image](imagenes/Desactivar.png)
+![image](Imagenes/Desactivar.png)
 
 ## Instalar una biblioteca
 
@@ -38,7 +38,7 @@
      pip install python-dateutil
   ```
 
-![image](imagenes/InstallBiblioteca.png)
+![image](Imagenes/InstallBiblioteca.png)
 
 * Un mensaje de salida dice que está instalando correctamente, y termina con la siguiente oración:
 
