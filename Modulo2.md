@@ -28,7 +28,7 @@
      deactivate 
   ```
 
-![image](Imagenes/Desactivar.png)
+![image](Imagenes/Desactivar.PNG)
 
 ## Instalar una biblioteca
 
@@ -38,7 +38,7 @@
      pip install python-dateutil
   ```
 
-![image](Imagenes/InstallBiblioteca.png)
+![image](Imagenes/InstallBiblioteca.PNG)
 
 * Un mensaje de salida dice que está instalando correctamente, y termina con la siguiente oración:
 
